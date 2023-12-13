@@ -1,5 +1,5 @@
 {
  
     "name": "Go",
-	"image":    " iregistry.baidu-int.com/hub-official/ubuntu:14.04.4"
+	"image":    "iregistry.baidu-int.com/hub-official/ubuntu:14.04.4"
 }
